@@ -12,6 +12,7 @@ Microsoft Excel (for initial data preparation)
 DAX (for custom calculations and KPIs)
 
 🔍 Key Insights
+
 Tracked total number of orders, revenue, and delivery metrics across multiple cities and time periods.
 
 Identified top-performing product categories and their contribution to overall sales.
@@ -28,6 +29,9 @@ blinkit.pbix – Power BI dashboard file
 Screenshots 
 
 👩‍💻 Author
+
 Parineeta Jagratt
+
 Aspiring Data Analyst | Power BI & Excel Enthusiast
+
 📫 LinkedIn Profile :- linkedin.com/in/parineeta-jagratt-8578bb326
